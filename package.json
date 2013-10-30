@@ -1,0 +1,25 @@
+{
+  "name": "caradoc-mail",
+  "description": "mail service for caradoc framework",
+  "version": "0.1.0",
+  "author": {
+    "name": "guillaume derouineau",
+    "email": "admin@caradoc.fr"
+  },
+  "dependencies": {
+    "nodemailer": "~0.5.*"
+  },
+  "keywords": [
+    "caradoc",
+    "mail"
+  ],
+  "main": "index",
+  "readmeFilename": "Readme.md",
+  "_id": "caradoc-mail@0.1.0",
+  "_from": "caradoc-mail@",
+  "homepage": "http://github.com/andris9/nodemailer",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/andris9/nodemailer.git"
+  }
+}
