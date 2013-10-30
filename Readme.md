@@ -28,7 +28,7 @@ mail
 
 ## Info
 
-    You need to renseign your config/params/mail.js file to use it
+You need to renseign your config/params/mail.js file to use it
 
 ## Mail() methods
 The following are the possible fields of an e-mail message:
