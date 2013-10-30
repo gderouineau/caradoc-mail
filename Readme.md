@@ -5,21 +5,20 @@
 ```js
 var Mail = require('caradoc-mail');
 var mail  = new Mail();
-    mail.from = "from";
-    mail.to = "to";
-    mail.subject = "subject";
-    mail.html = "html";
-    mail.send();
-    mail
-       .on('error', function(error){
-            console.log("some error occured");
-            console.log(error);
-       })
-       .on('success', function(success){
-            console.log("mail send");
-            console.log(success.message);
-       })
-    ;
+mail.from = "from";
+mail.to = "to";
+mail.subject = "subject";
+mail.html = "html";
+mail.send();
+mail
+   .on('error', function(error){
+        console.log("some error occured");
+        console.log(error);
+   })
+   .on('success', function(success){
+        console.log("mail send");
+        console.log(success.message);
+   });
 
 
 ## Installation
