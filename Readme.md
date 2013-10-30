@@ -23,7 +23,7 @@ mail
 
 ## Installation
 
-    $ npm -g install caradoc-mail
+    $ npm install caradoc-mail
 
 
 ## Info
