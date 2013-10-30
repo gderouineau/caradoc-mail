@@ -14,7 +14,7 @@
     "mail"
   ],
   "main": "index",
-  "readmeFilename": "Readme.md",
+  "readmeFilename": "README.md",
   "_id": "caradoc-mail@0.1.0",
   "_from": "caradoc-mail@",
   "homepage": "http://github.com/gderouineau/caradoc-mail",
