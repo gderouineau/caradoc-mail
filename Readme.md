@@ -19,7 +19,7 @@ mail
         console.log("mail send");
         console.log(success.message);
    });
-
+```
 
 ## Installation
 
